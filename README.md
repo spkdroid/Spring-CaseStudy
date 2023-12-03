@@ -1,4 +1,4 @@
-# Spring-Case Study
+# Spring Case Study
 
 1. **Scenario: Online Shopping Cart**
    - Design a Spring MVC application for an online shopping cart.
